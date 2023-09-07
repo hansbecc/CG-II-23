@@ -1,8 +1,3 @@
-// MAC420/5744 - Introducao a Computacao Grafica
-//
-// bola.c - Marcel P. Jackowski
-// 
-
 #include <GL/glut.h>
 #include <stdlib.h>
 #include <stdio.h>
